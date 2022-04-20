@@ -6,3 +6,4 @@ editovany nektere chyby
 a dodelano emptytextove vyhledavani
 pridan novy radek pro potrreby nove vetve
 github desktop
+posledni radek upraven, aby vyvolal hospodsky konflikt
