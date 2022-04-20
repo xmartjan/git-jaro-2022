@@ -1,3 +1,4 @@
+double conflict ze startu
 konfliktni prvni radek
 prvni radek dokoncen
 druha verze rizene verze
