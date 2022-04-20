@@ -4,3 +4,4 @@ a nahraju to na gita
 editovany nektere chyby
 a dodelano emptytextove vyhledavani
 pridan novy radek pro potrreby nove vetve
+github desktop
