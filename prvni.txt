@@ -1,3 +1,4 @@
+prvni radek kodu
 prvni
 a jeste dodelam tenhle soubor, aby byl kompletni
 a nahraju to na gita
