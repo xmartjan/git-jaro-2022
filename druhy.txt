@@ -7,3 +7,4 @@ zde je druha funkce pro novou vetev, ktera dela neco naprosto specialniho (a sic
 opravena chyba a preklep
 prvni pokusny rrrrrrrrrrrrrrrrrr
 prvni pokusny eeeeeeeeeeeeeeeeeeee
+konfliktni posledni radek
