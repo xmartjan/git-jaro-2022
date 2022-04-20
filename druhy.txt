@@ -3,3 +3,4 @@ druha verze rizene verze
 přidán třetí řádek
 a jeste dam i ctvrty, bo su frajer
 zde je druha funkce pro novou vetev, ktera dela neco naprosto specialniho (a sice nic)
+opravena chyba a preklep
